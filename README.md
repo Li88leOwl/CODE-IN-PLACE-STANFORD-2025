@@ -19,13 +19,16 @@ This repo contains:
 ## 🗂️ Folder Structure
 
 The code is organized like this:
-├── week0_getting_started/ # Pre-course setup & getting accepted
-├── week1_karel_basics/ # Intro to programming with Karel the Robot
-├── week2_problem_solving/ # More Karel + solving bigger problems
-├── week3_python_intro/ # First Python programs
-├── week4_control_flow/ # Ifs, loops, logic, and games
-├── week5_graphics/ # Graphics and functions in Python
-├── week6_final_project/ # Coming soon...
+
+```bash
+.
+├── week0_getting_started/     # Pre-course setup & getting accepted
+├── week1_karel_basics/        # Intro to programming with Karel the Robot
+├── week2_problem_solving/     # More Karel + solving bigger problems
+├── week3_python_intro/        # First Python programs
+├── week4_control_flow/        # Ifs, loops, logic, and games
+├── week5_graphics/            # Graphics and functions in Python
+├── week6_final_project/       # Coming soon...
 
 
 Each folder includes Python files for lessons, exercises, and optional challenges.
@@ -138,7 +141,7 @@ In the final week, we’ll build something cool from scratch using everything we
    ```bash
    git clone https://github.com/yourusername/code-in-place-2025.git
 
-   🌟 Why I'm Sharing This
+ 🌟 Why I'm Sharing This
 This repo is:
 
 My personal learning log
